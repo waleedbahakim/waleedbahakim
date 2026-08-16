@@ -26,7 +26,7 @@
 - `▹` Currently shipping production dashboards, real-time systems, and AI workflows.
 - `▹` 1.5+ years building for fast-moving startups and an international client.
 - `▹` Based in Aurangabad, India &mdash; open to remote and relocation across the **UAE & GCC**.
-- `▹` **5 products live in production right now** &mdash; see section 03.
+- `▹` **5 products live in production right now** &mdash; see section 04.
 
 <br/>
 
@@ -43,8 +43,17 @@
 
 <br/>
 
-<!-- ══════════════════════════  03 SELECTED WORK  ══════════════════════════ -->
-## 03 &nbsp;·&nbsp; SELECTED WORK
+<!-- ══════════════════════════  03 SYSTEM ARCHITECTURE  ══════════════════════════ -->
+## 03 &nbsp;·&nbsp; SYSTEM ARCHITECTURE
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/waleedbahakim/waleedbahakim/main/arch.png" width="100%" alt="System architecture — how I build, end to end"/>
+</div>
+
+<br/>
+
+<!-- ══════════════════════════  04 SELECTED WORK  ══════════════════════════ -->
+## 04 &nbsp;·&nbsp; SELECTED WORK
 
 > Every `● LIVE` tag opens the running product.
 
@@ -59,8 +68,25 @@
 
 <br/>
 
-<!-- ══════════════════════════  04 TELEMETRY  ══════════════════════════ -->
-## 04 &nbsp;·&nbsp; TELEMETRY
+<!-- ══════════════════════════  05 EXPERIENCE  ══════════════════════════ -->
+## 05 &nbsp;·&nbsp; EXPERIENCE
+
+**Fika AI Research** &mdash; Full-Stack Developer (MERN & GenAI) &nbsp;·&nbsp; `2025 — PRESENT`
+Building client-facing dashboards and automation systems end to end &mdash; CallQC.AI, Relay, ConvergeIQ &mdash; with React/Next front ends, Node APIs, data pipelines, and LLM/Vision integration shipped on AWS.
+
+**CleverPe** &mdash; Associate Software Developer, Intern &nbsp;·&nbsp; `DEC 2024 — JUN 2025`
+Built merchant, partner, and admin platforms with a loan gateway and multi-lender integrations. Lifted performance 35% (90+ Lighthouse) and cut merchant onboarding time 40%.
+
+<br/>
+
+<!-- ══════════════════════════  06 FIELD DATA  ══════════════════════════ -->
+## 06 &nbsp;·&nbsp; FIELD DATA
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/waleedbahakim/waleedbahakim/main/metrics.png" width="100%" alt="Field data — project metrics"/>
+</div>
+
+<br/>
 
 <div align="center">
   <img height="190" src="https://streak-stats.demolab.com?user=waleedbahakim&border=0D0D0D&background=F3F0EE&stroke=D8D3CD&ring=E8622A&fire=E8622A&currStreakLabel=E8622A&sideLabels=0D0D0D&currStreakNum=0D0D0D&sideNums=0D0D0D&dates=9A938B"/>
@@ -70,11 +96,6 @@
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=waleedbahakim&bg_color=F3F0EE&color=0D0D0D&line=E8622A&point=0D0D0D&area=false&hide_border=false&custom_title=Contribution%20Graph"/>
 </div>
 
-<br/>
-
-<!-- ══════════════════════════  05 CONTRIBUTION MAP  ══════════════════════════ -->
-## 05 &nbsp;·&nbsp; CONTRIBUTION MAP
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/waleedbahakim/waleedbahakim/output/snake.svg?v=2" alt="contribution snake"/>
 </div>
@@ -83,7 +104,13 @@
 
 ---
 
-<!-- ══════════════════════════  FOOTER  ══════════════════════════ -->
+<!-- ══════════════════════════  CONTACT  ══════════════════════════ -->
 <div align="center">
-  <sub><code>// END OF SHEET · 01 / 06</code> &nbsp;&nbsp;·&nbsp;&nbsp; built to ship &nbsp;&nbsp;·&nbsp;&nbsp; <a href="https://www.waleedbahakim.com">waleedbahakim.com</a></sub>
+
+**⟶ &nbsp; Open to full-stack roles, freelance, and relocation &mdash; India · UAE/GCC · Remote &nbsp; ⟵**
+
+<a href="https://www.waleedbahakim.com"><img src="https://img.shields.io/badge/LET'S_BUILD_SOMETHING_THAT_SHIPS-E8622A?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+<sub><code>// END OF SHEET · 01 / 06</code> &nbsp;·&nbsp; <a href="https://www.waleedbahakim.com">waleedbahakim.com</a></sub>
+
 </div>
