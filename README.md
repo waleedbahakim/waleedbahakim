@@ -29,7 +29,7 @@ INPUT      Figma  ·  requirements  ·  ambiguity
 OUTPUT     React UIs  ·  Node APIs  ·  real-time  ·  AI
 RANGE      frontend  ⇄  database, end to end
 DEPLOYED   Fika AI Research  ·  production
-LOCATION   Aurangabad, IN  ·  open to remote, onsite 
+LOCATION   Aurangabad, IN  ·  open to remote/onsite
 STATUS     ● operational  ·  available for work
 ```
 
@@ -111,7 +111,7 @@ v1.0   2024 · 2025     CleverPe  ·  Associate Software Developer (intern)
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/waleedbahakim/waleedbahakim/output/snake.svg?v=2" alt="contribution snake"/>
+  <img src="https://raw.githubusercontent.com/waleedbahakim/waleedbahakim/output/snake.svg?v=3" alt="contribution snake"/>
 </div>
 
 <br/>
@@ -146,7 +146,7 @@ v1.0   2024 · 2025     CleverPe  ·  Associate Software Developer (intern)
 <!-- ══════════════════════════  CONTACT  ══════════════════════════ -->
 <div align="center">
 
-**⟶ &nbsp; Open to full-stack roles, freelance, and relocation  · Remote & Onsite; ⟵**
+**⟶ &nbsp; Open to full-stack roles, freelance, and relocation · Remote/Onsite &nbsp; ⟵**
 
 <a href="https://www.waleedbahakim.com"><img src="https://img.shields.io/badge/LET'S_BUILD_SOMETHING_THAT_SHIPS-E8622A?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
