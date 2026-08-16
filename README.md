@@ -25,7 +25,7 @@
 
 - `▹` Currently shipping production dashboards, real-time systems, and AI workflows.
 - `▹` 1.5+ years building for fast-moving startups and an international client.
-- `▹` Based in Aurangabad, India &mdash; open to remote and onsite.
+- `▹` Based in Aurangabad, India &mdash; open to remote and relocation across the **UAE & GCC**.
 - `▹` **5 products live in production right now** &mdash; see section 03.
 
 <br/>
@@ -63,12 +63,7 @@
 ## 04 &nbsp;·&nbsp; TELEMETRY
 
 <div align="center">
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=waleedbahakim&show_icons=true&count_private=true&include_all_commits=true&border_color=0D0D0D&bg_color=F3F0EE&title_color=E8622A&icon_color=E8622A&text_color=0D0D0D"/>
-  <img height="185" src="https://streak-stats.demolab.com?user=waleedbahakim&border=0D0D0D&background=F3F0EE&stroke=D8D3CD&ring=E8622A&fire=E8622A&currStreakLabel=E8622A&sideLabels=0D0D0D&currStreakNum=0D0D0D&sideNums=0D0D0D&dates=9A938B"/>
-</div>
-
-<div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleedbahakim&layout=compact&langs_count=8&border_color=0D0D0D&bg_color=F3F0EE&title_color=E8622A&text_color=0D0D0D"/>
+  <img height="190" src="https://streak-stats.demolab.com?user=waleedbahakim&border=0D0D0D&background=F3F0EE&stroke=D8D3CD&ring=E8622A&fire=E8622A&currStreakLabel=E8622A&sideLabels=0D0D0D&currStreakNum=0D0D0D&sideNums=0D0D0D&dates=9A938B"/>
 </div>
 
 <div align="center">
@@ -81,7 +76,7 @@
 ## 05 &nbsp;·&nbsp; CONTRIBUTION MAP
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/waleedbahakim/waleedbahakim/output/snake.svg" alt="contribution snake — run the Actions workflow once to generate this"/>
+  <img src="https://raw.githubusercontent.com/waleedbahakim/waleedbahakim/output/snake.svg?v=2" alt="contribution snake"/>
 </div>
 
 <br/>
