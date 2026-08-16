@@ -1,6 +1,6 @@
 <!-- ══════════════════════════  BANNER  ══════════════════════════ -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/waleedbahakim/waleedbahakim/main/banner.png" width="100%" alt="Waleed Bahakim — Full-Stack Engineer · MERN + GenAI"/>
+  <img src="https://raw.githubusercontent.com/waleedbahakim/waleedbahakim/main/banner.png" width="100%" alt="Waleed Bahakim · Full-Stack Engineer · MERN + GenAI"/>
 </div>
 
 <br/>
@@ -21,25 +21,35 @@
 <!-- ══════════════════════════  01 SPECIFICATION  ══════════════════════════ -->
 ## 01 &nbsp;·&nbsp; SPECIFICATION
 
-**Full-Stack Developer @ Fika AI Research.** I take products from Figma to production &mdash; fast React and Next.js interfaces, the Node and MongoDB APIs and real-time layers behind them, and AI (OpenAI, Gemini, Vision) woven through.
-
-- `▹` Currently shipping production dashboards, real-time systems, and AI workflows.
-- `▹` 1.5+ years building for fast-moving startups and an international client.
-- `▹` Based in Aurangabad, India &mdash; open to remote and relocation across the **UAE & GCC**.
-- `▹` **5 products live in production right now** &mdash; see section 04.
+```
+PART NO.   WB-FSD-01
+TYPE       Full-Stack Developer  ·  MERN + GenAI
+FUNCTION   turns ideas into live, shipped products
+INPUT      Figma  ·  requirements  ·  ambiguity
+OUTPUT     React UIs  ·  Node APIs  ·  real-time  ·  AI
+RANGE      frontend  ⇄  database, end to end
+DEPLOYED   Fika AI Research  ·  production
+LOCATION   Aurangabad, IN  ·  open to UAE / GCC / remote
+STATUS     ● operational  ·  available for work
+```
 
 <br/>
 
-<!-- ══════════════════════════  02 STACK  ══════════════════════════ -->
-## 02 &nbsp;·&nbsp; STACK
+<!-- ══════════════════════════  02 BILL OF MATERIALS  ══════════════════════════ -->
+## 02 &nbsp;·&nbsp; BILL OF MATERIALS
 
-| Layer | Technologies |
-|:--|:--|
-| `FRONTEND` | React &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Redux &nbsp;·&nbsp; Tailwind &nbsp;·&nbsp; Vite |
-| `BACKEND` | Node.js &nbsp;·&nbsp; Express &nbsp;·&nbsp; MongoDB &nbsp;·&nbsp; MySQL &nbsp;·&nbsp; Socket.IO &nbsp;·&nbsp; JWT |
-| `AI / ML` | OpenAI &nbsp;·&nbsp; Gemini &nbsp;·&nbsp; Vision AI &nbsp;·&nbsp; LLM pipelines &nbsp;·&nbsp; Prompt engineering |
-| `CLOUD` | AWS &nbsp;·&nbsp; Docker &nbsp;·&nbsp; GCP &nbsp;·&nbsp; Firebase &nbsp;·&nbsp; Git &nbsp;·&nbsp; CI/CD |
-| `MOBILE` | React Native &nbsp;·&nbsp; Expo &nbsp;·&nbsp; Flutter |
+```
+ITEM  COMPONENT                   CLASS          RATING
+01    React  ·  Next.js           load-bearing   █████
+02    TypeScript                  load-bearing   █████
+03    Node.js  ·  Express         load-bearing   █████
+04    MongoDB  ·  MySQL           structural     ████░
+05    OpenAI  ·  Gemini  ·  LLM   structural     ████░
+06    Socket.IO  ·  real-time     structural     ████░
+07    AWS  ·  Docker  ·  CI/CD    structural     ████░
+08    React Native  ·  Expo       finish         ████░
+09    Flutter                     finish         ███░░
+```
 
 <br/>
 
@@ -47,35 +57,39 @@
 ## 03 &nbsp;·&nbsp; SYSTEM ARCHITECTURE
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/waleedbahakim/waleedbahakim/main/arch.png" width="100%" alt="System architecture — how I build, end to end"/>
+  <img src="https://raw.githubusercontent.com/waleedbahakim/waleedbahakim/main/arch.png" width="100%" alt="System architecture · how I build, end to end"/>
 </div>
 
 <br/>
 
-<!-- ══════════════════════════  04 SELECTED WORK  ══════════════════════════ -->
-## 04 &nbsp;·&nbsp; SELECTED WORK
+<!-- ══════════════════════════  04 DRAWING REGISTER  ══════════════════════════ -->
+## 04 &nbsp;·&nbsp; DRAWING REGISTER
 
-> Every `● LIVE` tag opens the running product.
+> Every `● IN SERVICE` stamp opens the running product.
 
-| Project | Specification | Stack | Status |
+| SHEET | PROJECT | SPECIFICATION | STATUS |
 |:--|:--|:--|:--|
-| **CallQC.AI** | AI call-quality platform &mdash; auto-scores agent calls against QC rubrics, flags fatals, and surfaces voice-of-customer insights at scale | `Next.js` `Node` `LLM` | [![Live](https://img.shields.io/badge/●_LIVE-E8622A?style=flat-square)](https://ai-callqc.powersmy.biz/) |
-| **Relay** | AI revenue-operations platform &mdash; 21 autonomous agents across six lifecycle stages, with conversion attribution built in | `Next.js` `Node` `LLM` | [![Live](https://img.shields.io/badge/●_LIVE-E8622A?style=flat-square)](https://relay.powersmy.biz/) |
-| **ConvergeIQ** | AI-driven analytics & operations platform for enterprise client workflows | `React` `Node` `AI` | [![Live](https://img.shields.io/badge/●_LIVE-E8622A?style=flat-square)](https://converge-iq-frontend.vercel.app/) |
-| **Kriya** | Standup & task-management system teams run their day on | `React` `Node` `MongoDB` | [![Live](https://img.shields.io/badge/●_LIVE-E8622A?style=flat-square)](https://kriya.xoft.in/login) |
-| **Ikhlaas** | Offline-first cross-platform habit app | `React Native` `Expo` | ![Mobile](https://img.shields.io/badge/MOBILE-0D0D0D?style=flat-square) |
-| **CBVI** | Real-time case-management platform for a U.S. violence-intervention nonprofit | `React` `Socket.IO` `AWS` | [![Live](https://img.shields.io/badge/●_LIVE-E8622A?style=flat-square)](https://cbvi-web.vercel.app/login) |
+| `D-01` | **CallQC.AI** | AI call-quality: auto-scoring, fatal flags, voice-of-customer insights | [![in service](https://img.shields.io/badge/●_IN_SERVICE-E8622A?style=flat-square)](https://ai-callqc.powersmy.biz/) |
+| `D-02` | **Relay** | AI revenue-ops: 21 agents across six lifecycle stages, attribution | [![in service](https://img.shields.io/badge/●_IN_SERVICE-E8622A?style=flat-square)](https://relay.powersmy.biz/) |
+| `D-03` | **ConvergeIQ** | AI analytics & operations for enterprise client workflows | [![in service](https://img.shields.io/badge/●_IN_SERVICE-E8622A?style=flat-square)](https://converge-iq-frontend.vercel.app/) |
+| `D-04` | **Kriya** | standup & task management teams run their day on | [![in service](https://img.shields.io/badge/●_IN_SERVICE-E8622A?style=flat-square)](https://kriya.xoft.in/login) |
+| `D-05` | **Ikhlaas** | offline-first cross-platform habit app | ![mobile](https://img.shields.io/badge/◐_MOBILE-0D0D0D?style=flat-square) |
+| `D-06` | **CBVI** | real-time case management for a U.S. violence-intervention nonprofit | [![in service](https://img.shields.io/badge/●_IN_SERVICE-E8622A?style=flat-square)](https://cbvi-web.vercel.app/login) |
 
 <br/>
 
-<!-- ══════════════════════════  05 EXPERIENCE  ══════════════════════════ -->
-## 05 &nbsp;·&nbsp; EXPERIENCE
+<!-- ══════════════════════════  05 DEPLOYMENT LOG  ══════════════════════════ -->
+## 05 &nbsp;·&nbsp; DEPLOYMENT LOG
 
-**Fika AI Research** &mdash; Full-Stack Developer (MERN & GenAI) &nbsp;·&nbsp; `2025 — PRESENT`
-Building client-facing dashboards and automation systems end to end &mdash; CallQC.AI, Relay, ConvergeIQ &mdash; with React/Next front ends, Node APIs, data pipelines, and LLM/Vision integration shipped on AWS.
+```
+v2.0   2025 · NOW      Fika AI Research  ·  Full-Stack (MERN & GenAI)
+       └─ shipped CallQC.AI · Relay · ConvergeIQ
+       └─ React/Next front ends · Node APIs · pipelines · LLM+Vision on AWS
 
-**CleverPe** &mdash; Associate Software Developer, Intern &nbsp;·&nbsp; `DEC 2024 — JUN 2025`
-Built merchant, partner, and admin platforms with a loan gateway and multi-lender integrations. Lifted performance 35% (90+ Lighthouse) and cut merchant onboarding time 40%.
+v1.0   2024 · 2025     CleverPe  ·  Associate Software Developer (intern)
+       └─ merchant / partner / lender platforms · loan gateway
+       └─ 35% faster loads · onboarding time cut 40%
+```
 
 <br/>
 
@@ -83,7 +97,7 @@ Built merchant, partner, and admin platforms with a loan gateway and multi-lende
 ## 06 &nbsp;·&nbsp; FIELD DATA
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/waleedbahakim/waleedbahakim/main/metrics.png" width="100%" alt="Field data — project metrics"/>
+  <img src="https://raw.githubusercontent.com/waleedbahakim/waleedbahakim/main/metrics.png" width="100%" alt="Field data · project metrics"/>
 </div>
 
 <br/>
@@ -102,12 +116,37 @@ Built merchant, partner, and admin platforms with a loan gateway and multi-lende
 
 <br/>
 
+<!-- ══════════════════════════  GENERAL NOTES  ══════════════════════════ -->
+## &nbsp;GENERAL NOTES
+
+```
+1.  All work shown is shipped to production and running live.
+2.  Built mobile-first: performance is treated as a feature.
+3.  AI is woven through the stack, not bolted on afterward.
+4.  Owns features end to end:  database → API → interface.
+5.  Available for relocation across UAE / GCC / remote.
+```
+
+<br/>
+
+<!-- ══════════════════════════  REVISION HISTORY  ══════════════════════════ -->
+## &nbsp;REVISION HISTORY
+
+| REV | DATE | DESCRIPTION |
+|:--:|:--|:--|
+| `0` | 2024 | First production work, CleverPe internship |
+| `A` | 2025 | Joined Fika AI Research, full-stack + GenAI |
+| `B` | 2026 | CallQC.AI · Relay · ConvergeIQ shipped to production |
+| `C` | 2026 | Portfolio & this profile live at waleedbahakim.com |
+
+<br/>
+
 ---
 
 <!-- ══════════════════════════  CONTACT  ══════════════════════════ -->
 <div align="center">
 
-**⟶ &nbsp; Open to full-stack roles, freelance, and relocation &mdash; India · UAE/GCC · Remote &nbsp; ⟵**
+**⟶ &nbsp; Open to full-stack roles, freelance, and relocation  ·  India · UAE/GCC · Remote &nbsp; ⟵**
 
 <a href="https://www.waleedbahakim.com"><img src="https://img.shields.io/badge/LET'S_BUILD_SOMETHING_THAT_SHIPS-E8622A?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
