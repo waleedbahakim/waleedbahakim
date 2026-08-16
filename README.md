@@ -111,7 +111,7 @@ v1.0   2024 · 2025     CleverPe  ·  Associate Software Developer (intern)
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/waleedbahakim/waleedbahakim/output/snake.svg?v=3" alt="contribution snake"/>
+  <img src="https://raw.githubusercontent.com/waleedbahakim/waleedbahakim/output/snake.svg?v=4" alt="contribution snake"/>
 </div>
 
 <br/>
