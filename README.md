@@ -146,7 +146,7 @@ v1.0   2024 · 2025     CleverPe  ·  Associate Software Developer (intern)
 <!-- ══════════════════════════  CONTACT  ══════════════════════════ -->
 <div align="center">
 
-**⟶ &nbsp; Open to full-stack roles, freelance, and relocation  · Remote &nbsp , Onsite; ⟵**
+**⟶ &nbsp; Open to full-stack roles, freelance, and relocation  · Remote & Onsite; ⟵**
 
 <a href="https://www.waleedbahakim.com"><img src="https://img.shields.io/badge/LET'S_BUILD_SOMETHING_THAT_SHIPS-E8622A?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
